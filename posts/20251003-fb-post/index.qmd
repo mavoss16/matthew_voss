@@ -1,0 +1,47 @@
+---
+title: "Post With Code"
+author: "Matthew Voss"
+date: "2025-10-03"
+categories: [Authoritarianism]
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+The following text is from a Facebook post made on October 10th, 2025.
+([Original Post](https://www.facebook.com/mvoss324/posts/pfbid02PAWZNFq84uGEQAh2yh4PewPswS4PZUUvwXcX4CoPR5Mf4dG2bAbNFE8gKFTYtzLml))
+
+
+It’s been a bit since I’ve posted about politics, but that doesn’t mean things have gotten better. On Tuesday, President Trump told all of the top U.S. generals and admirals that U.S. cities should be “training grounds” for the military. That is increasingly proven out, as more and more U.S. citizens and other legal immigrants get caught up in immigration raids. At the same time, President Trump has recently fired U.S. attorneys who disagreed about the evidence for prosecuting his political enemies, and has unilaterally made deals with countries that have supported his personal projects. All of these are disturbing steps in an authoritarian direction.
+
+A couple of days ago, U.S. federal agents stormed into an apartment building, breaking into nearly every unit and zip-tying residents, including U.S. citizens, to keep them outside until the raid was completed. The raid included tearing through apartments and destroying personal property, all while never showing the residents a warrant or allowing access to lawyers. ([Source](https://chicago.suntimes.com/immigration/2025/10/01/massive-immigration-raid-on-chicago-apartment-building-leaves-residents-reeling-i-feel-defeated))
+
+An elderly owner of a car wash in California has filed a lawsuit after being body slammed and injured by federal agents during an immigration raid. When agents arrived, he came out to offer proof of his employees’ legal authorizations, but instead was taken to the ground. ([Source](https://ktla.com/news/79-year-old-american-citizen-files-50-million-claim-after-car-wash-ice-raid/))
+
+Multiple class action lawsuits have been placed against ICE for indiscriminate arrests and detainments, including against U.S. citizens. In one, the lead plaintiff says he was taken off the street by agents who did not ask about his immigration status. When he tried to tell them that he had valid immigration papers, he was told, “No you don’t. You are illegal.” and “Shut up, bitch, you’re illegal.” He was detained overnight until an ICE supervisor realized the next morning that he did, in fact, have a valid immigration status. ([Source 1](https://www.documentcloud.org/documents/26157403-icearrestsdc/), [Source 2](https://x.com/ReichlinMelnick/status/1971242906897060045))
+
+In another class action suit, the lead plaintiff is an Alabama man who was detained two different times by immigration agents, despite showing the agents his REAL ID driver’s license. ([Source](https://www.pbs.org/newshour/nation/u-s-citizen-wrongfully-detained-twice-in-alabama-workplace-raids-sues-immigration-authorities))
+
+The Department of Homeland Security has claimed that in some of these cases, the individuals  were obstructing officers or assaulted officers, with those being the reasons for their detainment or arrest. However, in most of these cases there have not been charges filed by federal authorities or any charges filed have been dropped, nor has DHS provided evidence of assault on the officers. ([Department of Homeland Security](https://www.dhs.gov/news/2025/10/01/dhs-debunks-new-york-times-false-reporting-dhs-does-not-deport-us-citizens), [Source Describing Dropped Charges](https://www.nytimes.com/2025/09/29/us/trump-immigration-agents-us-citizens.html?unlocked_article_code=1.qk8.NLmw.HdNA8zycpQM3&smid=url-share))
+
+These raids come from ICE and other law enforcement officers at local and federal levels who have been assigned to this work. The libertarian CATO Institute identified that over 25,000 local and federal officers were diverted from their normal jobs to instead focus on immigration enforcement. Correspondingly, CATO has documented decreased criminal referrals from some of these agencies as a result, such as the Drug Enforcement Administration. That is, law enforcement being taken away from their normal jobs investigating and prosecuting crime to instead arrest or detain people who are largely productive members of society who have not committed crimes. ([Source](https://www.cato.org/blog/ice-has-diverted-over-25000-officers-their-jobs))
+
+A U.S. attorney was fired after she reminded a Border Patrol chief to follow a court order that prevented arrests without probable cause. This comes along with a firing or forced resignation of another U.S. attorney after he maintained that there was not sufficient evidence to bring charges against President Trump’s enemies. Other attorneys in the same office have been fired for similar political reasons following calls from social media influencers. ([Source 1](https://www.nytimes.com/2025/09/26/us/trump-fires-us-attorney-california-immigration.html?unlocked_article_code=1.qk8.DNan.BZPuv8D_ts3F&smid=url-share), [Source 2](https://www.bbc.com/news/articles/c62n74wr6vpo), [Source 3](https://abcnews.go.com/Politics/turmoil-virginia-us-attorneys-office-comey-indictment-2/story?id=126138109))
+
+The Trump administration “Immigration Czar,” Tom Homan, is a source of especially high controversy right now. In an undercover FBI operation last year, he accepted $50,000, in return promising government contracts after joining the Trump administration. The Justice Department dropped the investigation after President Trump’s inauguration. At the same time, Bloomberg reported that Homan is still involved in immigration detention contracting, despite some of the companies being his former clients. ([Source 1](https://www.reuters.com/world/us/trump-aide-homan-accepted-50000-bribery-sting-operation-sources-say-2025-09-21/), [Source 2](https://www.bloomberg.com/news/features/2025-09-24/trump-s-border-czar-tom-homan-involved-in-detention-contract-talks), [Source 3](https://www.propublica.org/article/tom-homan-border-czar-trump-mark-hall-charles-sowell))
+
+Moving beyond immigration, President Trump recently signed an executive order promising to defend Qatar upon any attack. This was not approved by Congress. It also comes after Qatar gifted a plane to the U.S. that Trump intends to use for Air Force One and maintain for personal use after his presidency, as well as Trump organization plans for a golf resort in Qatar, supported by the country’s sovereign wealth fund. Notably, Trump has criticized similar security guarantees for NATO countries, but chose to unilaterally create this guarantee. ([Source](https://www.cnn.com/2025/10/01/politics/qatar-pledge-trump-analysis))
+
+The U.S. also recently made advanced computer chips available for purchase and use in the United Arab Emirates. This deal came disturbingly close to a deal made by the same U.A.E. royal to invest $2 billion in cryptocurrency from World Liberty Financial–the crypto company owned by the Trump and Witkoff families. Notably, Steve Witkoff (of that Witkoff family) is also the special envoy to the Middle East, simultaneously negotiating with the U.A.E. on the chips deal while also having a financial interest in the company that benefitted from U.A.E. investment (Steve Witkoff is not fully divested yet, and his son Zach is also a leader of World Liberty Financial). ([Source](https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html))
+
+
+
+Earlier this summer, I also meant to post something about the Trump administration’s interference with private businesses, but never got around to it. Under a Democratic administration, all of the deals below would no doubt be labeled as socialist or communist.
+
+The U.S. now owns a “golden share” of U.S. Steel after the Nippon Steel acquisition of the company in June. Under this deal, the U.S. government has significant decision-making authority over the company. ([Source](https://www.theguardian.com/us-news/2025/jun/18/nippon-steel-acquires-us-steel))
+
+Intel gave the U.S. government a 10% stake in the company. This came after President Trump had called for Intel’s CEO to resign. After the deal, Trump described the CEO as a “success.” ([Source](https://www.npr.org/2025/08/22/nx-s1-5509673/trump-says-us-government-will-take-stake-intel))
+
+Shortly before the Intel deal, Trump announced that Nvidia would be giving the U.S. 15% of the revenue it gets from computer chip sales in China. It appears that this deal was required for the administration to give Nvidia the ability to sell the chips in China. ([Source](https://www.npr.org/2025/08/11/nx-s1-5498689/trump-nvidia-h20-chip-sales-china))
+
+This should be needless to say, but it is a bad thing when businesses feel they have to provide personal benefits to a political leader in order to avoid unfavorable treatment.

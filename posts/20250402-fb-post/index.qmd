@@ -1,0 +1,92 @@
+---
+title: "Post With Code"
+author: "Matthew Voss"
+date: "2025-04-02"
+categories: [Authoritarianism, Immigration, Corruption]
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+The following text is from a Facebook post made on April 2nd, 2025.
+([Original Post](https://www.facebook.com/mvoss324/posts/pfbid0KFMPRkgZJ7ksnM5fKB4pCSdWes3LMHVN4XnLs4v1YKkAhyCCMgUPNZidabmwxYhGl))
+
+
+
+It's time for me to make my first post in quite a while, to talk about the authoritarian direction of the Trump administration.
+
+In the first two and a half months of this term, there have been many actions taken by the administration that I consider frightening.
+I have many policy disagreements and competency concerns as well, but moves towards authoritarianism are far more scary to me.
+Over the past few weeks I've been collecting many of these examples, which I'll share here.
+
+I'm sure I have many Facebook friends who will disagree with these perspectives or may not have heard of these stories.
+I encourage all to read them and really consider if you voted these kinds of actions, or whether a president that received a whopping 49.8% of the popular vote really has the mandate that he thinks he has to run roughshod over all other branches of government.
+
+First off, the President said this weekend that he is "not joking" about pursuing a third term, going against the Constitution and tradition, as well as falsely claiming that he has high approval numbers that indicate that he should do so. ([Source](https://www.usatoday.com/story/news/politics/2025/03/31/donald-trump-third-term-approval-ratings/82739785007/))
+
+The administration has deported over 100 Venezuelans to an El Salvador prison without due process, accusing them of membership in the Venezuelan gang Tren de Aragua (TdA).
+Due process is important, because otherwise these individuals have no recourse to provide evidence of citizenship, legal status, and/or non-membership in said gang.
+At every turn, the administration has tried to block court orders to give some amount of due process (as required by the 5th and 14th Amendments).
+
+-   "Border Czar" Tom Homan said "I don't care what the judges think" in response to court orders. ([Source](https://www.axios.com/2025/03/17/tom-homan-deportation-flights-trump-court-order))
+
+-   President Trump called for impeachment of the judge who attempted to pause the deportations, a judge who was first appointed at the federal level under George W. Bush, and then elevated to district court in 2011 and confirmed unanimously by the Senate. ([Source](https://www.politico.com/news/2025/03/18/trump-impeachment-judge-deportations-00235173))
+
+-   When the administration did finally provide limited evidence to another judge for these removals, she described the submission as "a terrible, terrible affidavit. If this were before me in a criminal case and you were asking to get a warrant issued on this, I'd throw you out of my chambers." ([Source](https://x.com/ReichlinMelnick/status/1905745785217745259))
+
+-   This week, the administration admitted at least one individual was sent to El Salvador in error, but claims that it has no ability to bring him back to the United States.
+
+This error from lack of due process shows that anyone--including citizens and legal non-citizens--could be deported with zero recourse. ([Source](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/?gift=g14QT2pmL_FK5RcYzb-c5C88H5Cgkd9K5OGyHdRtUHM&utm_source=copy-link&utm_medium=social&utm_campaign=share))
+
+Much of the evidence given thus far for those in that group of accused gang members is based on tattoos.
+
+A Venezuelan journalist has said that "Tattoos aren't an identifier for Tren de Araugua" and that instead many of these tattoos are popular among Latin American youth more generally. ([Source](https://www.npr.org/2025/03/31/nx-s1-5345832/advocates-say-flawed-checklist-dhs-venezuelans-for-deportation-under-alien-enemies-act))
+
+Some of these individuals and tattoos include:
+
+-   A soccer player with a Real Madrid tattoo ([Source](https://english.elpais.com/usa/2025-03-21/a-tattoo-of-real-madrid-the-trump-administrations-proof-for-deporting-a-venezuelan-to-el-salvador.html))
+-   A makeup artist with tattoos of crowns for his mom and dad ([Source](https://www.theguardian.com/us-news/2025/apr/01/its-a-tradition-outrage-in-venezuela-as-us-deports-makeup-artist-for-religious-tattoos))
+-   Others with tattoos of hands, the words "family" and "brothers," a ribbon representing the autism acceptance movement, and the name of a popular Puerto Rican pop album. ([Source](https://www.theguardian.com/us-news/2025/mar/20/deported-because-of-his-tattoos-has-the-us-targeted-venezuelans-for-their-body-art))
+
+According to a court filing, even the Michael Jordan "Jump Man" logo is supposedly an indicator of TdA involvement, even though people around the world who have never even heard of the gang may have that exact same tattoo, or something very similar.
+([Page 14](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.67.21.pdf))
+
+There are many other examples of lack of due process, cruel treatment, and detainment or deportation of previously legal residents without any kind of notice.
+
+Earlier in March, a German national with a green card (a legal U.S. resident) was detained upon arriving in the U.S., stripped, and put in a cold shower. ([Source](https://www.theguardian.com/us-news/2025/mar/18/germany-investigates-after-national-with-green-card-arrested-at-us-border))
+
+A student was pulled directly off the street by masked officers, only finding out in that moment that her visa had been revoked.
+She was taken across the U.S., despite a court order that she remain in Massachusetts.
+She has not been accused of or charged with any crime.
+The only apparent explanation so far of her removal is an op-ed that offered criticism of her university. ([Source](https://www.cnn.com/2025/03/29/us/rumeysa-ozturk-tufts-university-arrest-saturday/index.html))
+
+A Canadian woman was held for two weeks, first detained while at an appointment to fix hang-ups with her visa application.
+She was willing to pay for her own flight back to Canada, but instead was shuttled around various detention centers that weren't prepared to handle the influx of detainees. ([Source](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney))
+
+A Cedar Rapids couple showed up for their check-in with ICE, and one of them was instead detained. ([Source](https://fortune.com/2025/03/14/colombian-immigrant-couple-planning-wedding-routine-ice-check-in-deported/))
+
+Numerous other examples of legal residents being deported or detained without notice ([Source](https://nymag.com/intelligencer/article/us-visa-green-card-holders-trump-ice-detainment-deportation.html))
+
+Beyond deportations, DOGE and Elon Musk have too many overreaches to count, all while typically lying about or at least misrepresenting the amount of fraud they have found.
+I'm happy to share more examples, but I'll just share one DOGE-adjacent example from a niche area.
+
+A couple of weeks ago, the Trump administration disbanded several volunteer advisory committees for the federal government's statistical agencies, such as the Bureau of Labor Statistics, Bureau of Economic Analysis, and the Census Bureau.
+These committees included data users from the private sector, academia, and non-profits.
+Federal data touches far more areas of society than many people realize, and it is vital to have trustworthy, unbiased data for decision-making. ([Source](https://www.politico.com/news/2025/03/21/labor-commerce-department-economy-data-doge-00241559))
+
+Given that these committees were unpaid and their advice was non-binding, there was zero reason to disband them besides for wanting less oversight as data becomes more shoddy with layoffs or, dare I say, as the data is influenced by the politics at the top of the administration.
+
+President Trump has also targeted law firms that have represented opponents of Trump in the past, by signing executive orders that could revoke security clearances or ban them from federal buildings.
+The President has made deals with several firms--or some might say bribes--with the firms promising pro bono work that will support policies aligned with President Trump's in exchange for President Trump withdrawing the executive orders. ([Source](https://www.politico.com/news/magazine/2025/04/01/trump-big-law-attacks-12-questions-00261359))
+
+Finally, the President has pardoned or given significant deals to quite a few white-collar criminals who have aligned themselves with Trump.
+
+-   A pardon for Trump donor Trevor Milton, who defrauded investors ([Source](https://www.cnbc.com/2025/03/28/trump-pardons-nikola-trevor-milton-ceo-securities-fraud-electric-vehicle.html))
+-   Dropping charges against New York City mayor Eric Adams, in exchange for support for the President's deportations ([Source](https://www.theguardian.com/us-news/2025/feb/18/eric-adams-donald-trump-corruption-case))
+-   A pardon for corrupt former Illinois governor Rod Blagojevich ([Source](https://www.npr.org/2025/02/10/g-s1-47817/trump-pardon-rod-blagojevich-illinois-corruption))
+-   Pardons for the founders of BitMEX, a cryptocurrency exchange, who had failed to establish an anti-money laundering program for their exchange ([Source](https://www.usatoday.com/story/news/politics/2025/03/28/trump-pardons-three-founders-bitmex-cryptocurrency/82708964007/))
+-   The admin has dropped it's case against a cryptocurrency firm who's CEO donated \$5 million to Trump's inaugural committee ([Source](https://abcnews.go.com/US/sec-drops-case-crypto-firm-ties-trump-ceo/story?id=119963257))
+-   The DOJ dropped a case against Elon Musk's firm SpaceX ([Source](https://www.theguardian.com/science/2025/feb/21/space-x-elon-musk-discrimination-case))
+
+If you've reached the end of this post, thank you!
+If all or any of these actions concern you, as they do me, I encourage you to express those concerns to your Senators and Representatives and consider how else you might be able to make your concerns known.

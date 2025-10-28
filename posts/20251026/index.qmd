@@ -1,0 +1,59 @@
+---
+title: "Post With Code"
+author: "Matthew Voss"
+date: "2025-10-03"
+categories: [Authoritarianism, Corruption]
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+It's worth reminding of the reason why I post these stories. It's hard to keep track of things in the modern political world. But it's even harder when the presidential administration has made it a goal to move as quickly as possible. I worry that if people don't know what's happening, it becomes all that much easier to accept it and forget what their actual expectations for a president are.
+
+Before the 2024 election, many people on the left, center, and non-MAGA right would have been accused of having Trump Derangement Syndrome if they had predicted many of the things that have happened in the first nine months of Donald Trump's second term. Even something like Project 2025 was ridiculed by Trump or others whenever Democrats talked about it, but now Trump embraces it. ([Source](https://www.pbs.org/newshour/politics/amid-shutdown-fight-trump-no-longer-distancing-himself-from-project-2025))
+
+All of the actions I list here scare me. But what might scare me more is the short-term memory of those that justify them. Not long ago, anyone who would have predicted actions like these would have been accused of having Trump Derangement Syndrome. The line of what is acceptable gets pushed further and further
+
+## The Pentagon
+
+#### Transparency and the Press
+Members of the Trump administration have often described themselves or President Trump as the most transparent [insert agency here] in history. In practice, that hasn't really been the case.
+
+For the Department of Defense (Congress has not yet changed the name to the Department of War), there has been a lot of coverage of their modified press policy. Almost all of the previous news agencies covering the Pentagon chose to not to sign the new policy, including conservative news outlets like Fox News and Newsmax. Right-wing personalities and administration officials have claimed that this is because the department tightened up rules on where press could go in the Pentagon. However, those claims ignore the additional policies that threaten the press for reporting on news that has not been approved by Pentagon officials--an important part of the job of the press to maintain accountability when a department is not transparent, no matter how much they claim they are. ([Source](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12))
+
+In the last week, the Pentagon announced the new press corps that will be reporting from the Pentagon. ([Source](https://apnews.com/article/pentagon-media-rules-new-press-corps-b14b8cef6ba63cdac17c8ffac375e615)) This group is filled with the most extreme organizations, ones that go beyond having any kind of ideological lean, but are blatant advocacy groups for Donald Trump. With that in mind, the Pentagon should not be "announcing" any kind of press corps, because the press corps should not representing the public, not the administration.
+
+#### Illegal Killings
+While the Pentagon has been working to get a more accomodating press corps, they have been giving essentially zero information on strikes in the Caribbean and Pacific on what they claim to be drug smugglers, killing more than 40 people so far. The administration claims that it has the legal authority to do so, but has given little detail on what that authority is, both to the public and to Congress. ([Source](https://www.npr.org/2025/10/24/nx-s1-5584173/trump-drug-boats-venezuela-maduro)) Previous administrations would give briefings to Congress on significant foreign strikes, but the Trump administration has opted to not even do that. Republican Senator Rand Paul has described the strikes as "extrajudicial killings" and has emphasized that zero evidence has been given, even to Congress, on why strikes were necessary or justified in these situations. ([Source](https://thehill.com/homenews/senate/5573870-rand-paul-caribbean-boat-strikes/))
+
+Some might argue that killing someone smuggling drugs is a reasonable action. I would argue it is not, especially considering that if the U.S. government can track the boat in order to strike it with a missile, they are also likely capable of capturing the individuals. It is applying the death penalty without having to provide evidence or prove the case in front of a court. In the one case where the U.S. did capture two individuals who survived a strike, the administration chose to release them from U.S. custody back into South America, bringing questions of why it is necessary to kill the accused, but not hold them for investigation and prosecution. ([Source](https://www.theguardian.com/us-news/2025/oct/18/us-military-strike-survivors)) A couple of weeks ago, the U.S. Navy commander overseeing the strikes stepped down. There have not been reports on why, but the timing certainly brings questions of his views of the legality of the strikes. ([Source](https://www.navytimes.com/news/your-navy/2025/10/16/us-navy-commander-overseeing-venezuelan-strikes-steps-down/))
+
+#### Corruption
+The Department of Defense awarded a contract to a drone company that has given Donald Trump Jr. an ownership stake in exchange for his role as an advisor. Donald Trump Jr. helped screen candidates for jobs at the Pentagon and has said that he promoted candidates who supported expanding drone usage. ([Source](https://www.nytimes.com/2025/10/24/us/politics/trump-drones-pentagon.html?unlocked_article_code=1.wU8.iKIC.8O6KPCew5fa0&smid=url-share))
+
+## White House East Wing & Ballroom
+
+President Trump has chosen to tear down the East Wing of the White House--which mainly contained offices for the first lady and her staff and some other executive offices. In it's place, the president intends to build a 90,000 sq. ft. ballroom that will dwarf the other parts of the White House (the main, Executive Residence, portion of the White House is only 55,000 sq. ft. [Source](https://www.washingtonpost.com/politics/2025/10/25/trump-white-house-ballroom-east-wing/)). It's not the craziest idea to me--it makes sense that the White House should have a larger space for entertaining and state dinners than it currently has. However, doing all of this in a short time span, without approval from Congress, at least *feels* wrong. And soliciting private donations that amount to hundreds of millions of dollars for a pet project of the president continues to escalate the transactional nature of the Trump administration.
+
+Donald Trump loves naming things after himself. You only have to look at all of his business enterprises to see that. Upon reports that he planned on naming the ballroom after himself, he denied it. However, even on the list of donors for the ballroom provided by the White House itself, the ballroom was already referred to as the President Donald J. Trump Ballroom. ([Source](https://abcnews.go.com/Politics/trump-white-house-ballroom-after-officials/story?id=126843455)). A leader naming things after himself reminds you more of Russia, North Korea, or other dictatorships, but I suppose it shouldn't be too surprising when President Trump has also hung huge banners of his face on federal buildings ([Source](https://www.axios.com/local/washington-dc/2025/09/17/trump-face-banners-federal-buildings-taxpayer-money)).
+
+## Elections
+
+Former Trump aide Steve Bannon said that Donald Trump will run for president again in 2028, and that there is a plan to make that happen. Trump himself has at times said that of course he wouldn't, but has also mused about it to reporters, encouraged his supporters when they say it, and sells "Trump 2028" hats in the Trump Organization store. ([Source](https://www.usatoday.com/story/news/politics/2025/10/25/trump-2028-steve-bannon-comments/86897789007/))
+
+The Trump administration will be sending election monitors to California and New Jersey for their fall elections. These elections are not federal elections--they will not have any races for the U.S. House or Senate. The Department of Justice has not provided an explanation of why these elections deserve monitoring, just that they have received requests to do so from Republicans in the states. This is the first action of the Trump administration directly meddling with state-run elections.
+([Source](https://www.theguardian.com/us-news/2025/oct/24/trump-election-observers-california-new-jersey))
+
+At the same time, the Trump administration has filled important election security roles with proponents of 2020 election conspiracies. One of these officials suggested in March, before her appointment, that a national emergency declaration could be used by the administration to dictate election rules to state and local governments.
+([Source](https://www.nytimes.com/2025/10/22/us/politics/trump-election-deniers-voting-security.html?unlocked_article_code=1.wE8.7D1S.voPIK9spq3MK&smid=url-share))
+
+In regards to the 2020 election, it's always worth a reminder that Donald Trump lost nearly every court case where he claimed fraud or any issues with the election. ([Source](https://www.usatoday.com/in-depth/news/politics/elections/2021/01/06/trumps-failed-efforts-overturn-election-numbers/4130307001/)) In Republican-run investigations after the election, no hard evidence was ever provided that indicates substantial election fraud.
+
+## Pardons
+
+This week, President Trump added to his list of pardons by granting one to the founder and majority owner of Binance, a large cryptocurrency exchange that also happened to recently make a deal with World Liberty Financial, which is the Trump family cryptocurrency firm that has made hundreds of millions of dollars for Donald Trump and his family. Changpeng Zhao, the individual who was pardoned, had pled guilty to enabling money laundering, as Binance had enabled transactions by groups such as al-Qaida, Hamas, and ISIS. ([Source](https://www.cnbc.com/2025/10/23/trump-pardons-binance-founder-cz-zhao.html))
+
+President Trump also commuted the sentence George Santos, the disgraced former Congressman who pled guilty to wire fraud and identity theft. Santos had been kicked out of Congress on a significant bipartisan vote after lying about large portions of his resume and on campaign finance reports. ([Source](https://thehill.com/regulation/court-battles/5564409-george-santos-trump-clemency-fines-restitution/))
+
+These actions add to the list of President Trump's pardons and commutations for political allies, regardless of their crimes. The list includes significant donors, others tied to cryptocurrency and other industries favored by Trump, and politicians elected from either party who have since declared themselves Trump supporters. Not to mention the 1,500+ pardons and commutations for those involved in the January 6th storming of the Capitol, one of whom was recently re-arrested for threats made against Democratic Representative Hakeem Jeffries, as well as at least 10 others who have been re-arrested for other crimes such has child sexual abuse and plots to murder FBI agents. ([Source](https://www.usatoday.com/story/news/politics/2025/10/23/donald-trump-jan-6-capitol-riot-hakeem-jeffries/86861282007/))
+

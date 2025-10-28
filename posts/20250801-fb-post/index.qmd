@@ -1,0 +1,37 @@
+---
+title: "Post With Code"
+author: "Matthew Voss"
+date: "2025-08-01"
+categories: [Authoritarianism]
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+The following text is from a Facebook post made on August 1st, 2025.
+([Original Post](https://www.facebook.com/mvoss324/posts/pfbid0QsEith1YkJz1vZcEPW4if4CPYVVDBrAMQiouEhtn6wEb4gu8wUcfCqauHpeF6k6Nl))
+
+Today, President Trump fired the Commissioner of the Bureau of Labor Statistics due to a jobs report published this morning that indicated a worsening economy. He claimed political manipulation of the data, while offering no factual evidence.
+
+The previous BLS Commissioner, William Beach (appointed by Trump in his first term), described the firing in this way: "The totally groundless firing of Dr. Erika McEntarfer, my successor as Commissioner of Labor Statistics at BLS, sets a dangerous precedent and undermines the statistical mission of the Bureau."
+
+I'm biased due to my love of data, but I believe the production of reliable, objective data is one of the most important and useful functions of government agencies. However, from this point forward, every employee in one of those roles will work under the knowledge that they may get fired if the objective data they produce is unfavorable to the administration. That doesn't sound like a constitutional republic to me.
+
+
+[Story on the firing of Dr. McEntarfer](https://www.theguardian.com/us-news/2025/aug/01/trump-fires-erika-mcentarfer-labor-statistics)
+
+[Statement by former Commissioner Beach](https://x.com/BeachWW453/status/1951376029060055506)
+
+[Full statement by former Commissioner Beach and other experts in government data](https://www.friendsofbls.org/updates/2025/8/1/statement-on-commissioner-mcentarfers-removal)
+
+
+
+Follow-up:
+
+The President's "evidence" is that the BLS published positive numbers for the Biden administration right before the election and revised them downwards by ~800,000 jobs after the election. This would not be hard evidence, but also is completely wrong, as the revision that Trump is referring to happened in August, long before the election. The jobs data published right before the election was actually very poor.
+
+[President Trump's claims](https://x.com/atrupar/status/1951390451316974079)
+
+[August 2024 downward revision](https://www.cnbc.com/2024/08/21/nonfarm-payroll-growth-revised-down-by-818000-labor-department-says.html)
+
+[October 2024 jobs report--published on 11/1, days before the election](https://www.cnbc.com/2024/11/01/us-jobs-report-october-2024.html)

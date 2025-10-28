@@ -1,0 +1,120 @@
+---
+title: "Post With Code"
+author: "Matthew Voss"
+date: "2025-04-02"
+categories: [Authoritarianism, Immigration, Corruption]
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+I wanted to follow-up from my post several weeks ago concerning the Trump administration’s slide towards authoritarianism.
+There is so much news that no individual can really keep up, and neither can the justice system.
+Those who have experienced other countries’ moves towards authoritarianism describe this as the way it happens–a pace that is so fast that citizens have little ability to react until it is too late, while the leader uses the pace to help normalize ideas that would be unfathomable except in this context.
+
+This article talks about some of those other countries’ examples and highlights that in an authoritarian slide there is no moment like the present to take action.
+
+[A Ticking Clock on American Freedom](https://www.theatlantic.com/ideas/archive/2025/04/america-trump-authoritarianism-global/682528/?gift=g14QT2pmL_FK5RcYzb-c5CBlXxR_317Or8ChkFUOJ_o&utm_source=copy-link&utm_medium=social&utm_campaign=share)
+
+Again, the articles below aren’t about my disagreements with President Trump and the administration on policy, but instead are about my concerns for the lack of separation of powers, due process, humanity, and integrity.
+
+President Trump has talked multiple times about sending U.S. citizens to the same prison in El Salvador where others have been sent without due process.
+Remember that the administration has claimed that once someone is there, they have no way to return them to the U.S. or even request their return.
+That means that any person, citizen or not, guilty or not, is essentially sent there for life.
+([Source](https://www.reuters.com/world/americas/trump-wants-deport-some-us-citizens-el-salvador-2025-04-14/))
+
+Quite a few U.S. citizens have incorrectly received emails telling them they needed to leave the country immediately, at the very least continuing to show an indifference by the Trump administration towards getting things correct.
+[Wisconsin Public Radio](https://www.wpr.org/news/federal-government-find-you-immigration-officials-wrongfully-told-fox-valley-man-leave), [NBC News](https://www.nbcnews.com/news/us-news/doctor-email-immigration-leave-country-rcna201698), [ABC10 News San Diego](https://www.10news.com/news/local-news/u-s-citizen-born-in-national-city-received-deportation-letter-in-dhs-email), [WIRED](https://www.wired.com/story/homeland-security-email-tells-a-us-citizen-to-immediately-self-deport/)
+
+A 60 Minutes investigation into the (at the time) 238 people sent to the El Salvador prison found that only a dozen or so had committed violent crimes.
+About 20% had committed non-violent offenses.
+A whopping 75% did not have a criminal record in the U.S. or abroad.
+([Source](https://www.cbsnews.com/news/what-records-show-about-migrants-sent-to-salvadoran-prison-60-minutes-transcript/))
+
+A U.S. citizen was detained by ICE under a law that already is suspended, and was only released several hours after his mother showed his birth certificate to a judge.
+([Source](https://www.independent.co.uk/news/world/americas/us-politics/ice-florida-detention-juan-carlos-lopez-gomez-b2735801.html))
+
+Another U.S. citizen was detained for 10 days.
+DHS has claimed that he had told ICE agents that he was in the country illegally, though their official story has changed over several official filings.
+The individual insists that he said he was a citizen.
+Nonetheless, he was still held for some time after his family brought documentation for his citizenship.
+([Source](https://www.kob.com/new-mexico/albuquerque-man-talks-about-being-wrongfully-detained-by-border-patrol/))
+
+Yet another U.S. citizen was detained for nearly five hours after returning from a Palm Sunday celebration in Canada.
+([Source](https://www.nbcboston.com/news/politics/treated-like-a-criminal-us-citizen-says-he-was-detained-returning-from-canada/3686188/))
+
+The Trump administration ended refugee programs for refugees from Afghanistan.
+Many of them, such as Afghan Christians, will have nowhere to go other than back to Afghanistan, where they are likely to face significant persecution.
+[New York Times](https://www.nytimes.com/2025/04/11/us/politics/trump-tps-afghanistan-cameroon.html), [Christian Post](https://www.christianpost.com/voices/why-is-america-deporting-them-afghan-christians-have-4-days.html)
+
+An Australian man with a valid visa who had been living and working in the U.S. for 5+ years was detained and then deported after returning to the U.S. following his sister’s funeral.
+([Source](https://www.theguardian.com/us-news/2025/apr/11/australian-with-us-working-visa-detained-insulted-deported))
+
+Iowa State has had at least one student’s visa revoked, as well as an alum’s.
+The alum was presumably flagged because he was once charged with evading arrest.
+But an investigation found that he did so unknowingly and the charge was dropped.
+([Source](https://iowastatedaily.com/317618/news/at-least-two-isu-student-visas-revoked-university-declines-to-say-how-many/))
+
+Broadly, the Trump administration appears to be using any speech they disagree with or any violations, no matter how minor, as reasons to revoke student visas, then give minimal or no warning to the students before the deadline by which they are supposed to have “self-deported.” ([Source 1](https://www.miamiherald.com/news/local/immigration/article304779431.html), [Source 2](https://www.cnn.com/2025/04/19/us/visa-revoked-students-trump-ice/index.html))
+
+The administration moved a man from Pennsylvania to Texas against a judge’s order.
+([Source](https://www.reuters.com/world/us/trump-administration-moved-venezuelan-texas-possible-deportation-despite-judges-2025-04-24/))
+
+A man’s family learned after more than a month that he had been taken to El Salvador.
+They learned this from NBC News rather than any federal agency, despite their efforts contacting ICE and DHS to find out where he was.
+([Source](https://www.nbcnews.com/news/latino/venezuelan-brother-deported-el-salvador-family-looking-rcna202279))
+
+The administration admitted that they did not have a warrant when they arrested Columbia University student Mahmoud Khalil.
+([Source](https://thehill.com/regulation/court-battles/5266767-ice-arrested-mahmoud-khalil-without-a-warrant-court-documents-show/))
+
+The Trump administration continues to ignore and obstruct judge’s orders to provide information concerning the illegal removal of Kilmar Abrego Garcia.
+([Source 1](https://www.politico.com/news/2025/04/17/abrego-garcia-appeal-wilkinson-00298063), [Source 2](https://www.politico.com/news/2025/04/22/kilmar-abrego-garcia-judge-order-00305276))
+
+Garcia’s family was moved to a safe house after government court filings unnecessarily revealed their address.
+([Source](https://www.newsnationnow.com/us-news/immigration/border-coverage/kilmar-abrego-garcia-wife-safe-house/))
+
+A Trump-appointed judge ruled that the Trump administration needs to make an effort to return another man from the El Salvadoran prison back to the United States because he was sent there in violation of prior orders.
+([Source](https://www.nbcnews.com/news/us-news/trump-appointed-judge-orders-return-venezuelan-migrant-deported-el-sal-rcna202748))
+
+Though President Trump has now said that he won’t fire Federal Reserve Chair Jerome Powell (who Trump appointed in his first term), he still is setting up the incorrect claim that he has the power to do so.
+And Trump is capable of changing his mind at any time, as seen by the tariff roller coaster.
+([Source](https://www.axios.com/2025/04/17/trump-fire-jerome-powell-fed-humphreys-executor))
+
+The nominee for IRS commissioner had a debt from his 2022 Senate campaign paid by campaign contributions from several companies that have been accused of participating in fraudulent tax credit schemes.
+The campaign debt was also a loan from the nominee himself, so paying off the debt amounted to paying the nominee directly.
+([Source](https://www.politico.com/news/2025/04/16/billy-long-irs-campaign-donations-00293051))
+
+A crypto entrepreneur who has spent \$75 million on Trump crypto ventures had his charges from the Securities and Exchange Commission dropped.
+([Source](https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html))
+
+Donald Trump is explicitly selling access to the White House by way of purchasing his “meme coin.” Top holders of the coin will get to attend a gala dinner with the President.
+It’s not even a campaign donation, but instead a payment directly into the pockets of the Trump family.
+([Source](https://www.politico.com/news/2025/04/23/trump-crypto-coin-dinner-00306707))
+
+The Trump administration has attacked several universities, coercing them to change policies in order to keep federal funding.
+Donald Trump himself has also said that Harvard should lose its tax-exempt status, which would open a can of worms for any President to do so for any tax-exempt organizations with which they disagree.
+
+The free speech organization FIRE (which represents groups and individuals across the political spectrum) has described the administration’s demands of universities as unconstitutional and “bullying \[that\] is so extreme it might more accurately be called extortion.” ([Source 1](https://www.bbc.com/news/articles/cz01y9gkdm3o), [Source 2](https://www.thefire.org/news/trump-administrations-coercion-columbia-unlawful-and-unconstitutional))
+
+Under pressure from a federal investigation, the University of Tulane is investigating seven students for participation in an off-campus, peaceful protest.
+The students were not arrested or charged with crimes, but are being investigated because the group that organized the protest is “not in good standing with the university.” ([Source 1](https://tulanehullabaloo.com/69150/news/seven-tulane-students-under-investigation-participation-off-campus-protest/), [Source 2](https://www.thefire.org/research-learn/fire-letter-tulane-university-april-17-2025))
+
+A whistleblower submitted a disclosure to Congress describing actions of DOGE at the National Labor Relations Board and concerns with data exiting the system.
+DOGE employees demanded access above typical admin levels, access that would allow unrestricted access to read and modify all data in the system, also demanding that the access not have the typical logging requirements that other accounts have.
+NLRB employees noticed that there was a huge spike in outgoing data from the agency’s systems.
+They also noted that almost immediately after DOGE employees were given access, a Russian IP address started attempting to log in with correct login information (the log-ins were blocked due to system protections).
+
+When the whistleblower raised the concerns through internal channels, a couple of days later he found an envelope taped to his door with threats, personal information, and pictures of him walking his dog.
+([Source](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security))
+
+DOGE attempted to assign employees to the Vera Institute of Justice and other non-profits that have received funds from the federal government, but otherwise are not beholden to the government’s authority.
+([Source](https://apnews.com/article/doge-vera-institute-nonprofits-independence-civil-society-trump-3ddbc5aa709d1b829e56cf0a1b69bd0f))
+
+Here are the contact pages for Iowa’s U.S. Senators and Representatives:
+
+-   [Senator Grassley](https://www.grassley.senate.gov/contact/questions-and-comments)
+-   [Senator Ernst](https://www.ernst.senate.gov/contact/email-joni)
+-   [Representative Hinson](https://hinson.house.gov/zip_authentication?form=/contact)
+-   [Representative Miller-Meeks](https://millermeeks.house.gov/contact)
+-   [Representative Nunn](https://nunn.house.gov/contact/email-zach/)
+-   [Representative Feenstra](https://feenstra.house.gov/contact)
