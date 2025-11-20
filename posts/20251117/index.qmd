@@ -9,6 +9,8 @@ editor:
 ---
 
 ```{r}
+#| include: false
+
 # In October, ICE agents performed a middle-of-the-night raid at a Chicago apartment building, with agents repelling from a helicopter overhead, storming into apartments, and detaining children outside for hours. We now know that there has not been a single charge filed by the government against those who were detained or deported in that raid. The actions that were deemed necessary because the building was "filled with terrorists" appears to have turned out no one who committed a crime worth charging. Instead, it simply produced material for a propoganda video for ICE.
 
 # Rather than continuing to post a ton of links here, I've started to post them on a blog of sorts. 
