@@ -1,5 +1,5 @@
 ---
-title: "Post With Code"
+title: "Facebook: August 1st"
 author: "Matthew Voss"
 date: "2025-08-01"
 categories: [Authoritarianism]
