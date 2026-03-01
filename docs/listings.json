@@ -2,12 +2,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/20251117/index.html",
-      "/posts/20251026/index.html",
-      "/posts/20251003-fb-post/index.html",
-      "/posts/20250801-fb-post/index.html",
-      "/posts/20250425-fb-post/index.html",
-      "/posts/20250402-fb-post/index.html"
+      "/posts/202601.html",
+      "/posts/20251117.html",
+      "/posts/20251026.html",
+      "/posts/20251003-fb-post.html",
+      "/posts/20250801-fb-post.html",
+      "/posts/20260125.html",
+      "/posts/20250425-fb-post.html",
+      "/posts/20250402-fb-post.html"
     ]
   }
 ]
